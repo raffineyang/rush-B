@@ -1,0 +1,2 @@
+# rush-B
+new,simple
